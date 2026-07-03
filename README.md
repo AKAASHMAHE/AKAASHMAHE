@@ -225,17 +225,14 @@ Based on your current trajectory in AI/ML and backend systems, areas you may be 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKAASHMAHE&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKAASHMAHE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKAASHMAHE&theme=radical" alt="Streak Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKAASHMAHE&theme=redical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKAASHMAHE&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
