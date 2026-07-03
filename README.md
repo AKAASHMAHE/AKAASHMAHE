@@ -26,9 +26,9 @@
 - 🌐 Comfortable across the stack — from **Java/Spring Boot backends** to **embedded systems (ESP32, Arduino)** to **cloud and DevOps tooling**.
 - 🛠️ Enjoy building end-to-end systems: from sensor-level data collection to REST APIs to dashboards and alerting.
 - 🎯 **Career goal:** To grow as a software engineer specializing in AI-driven systems and distributed backend architectures, contributing to products that combine intelligent automation with robust engineering.
-
+<!--
 > 💡 *Note: Sections like Certifications, Achievements, and social/coding profile links (LeetCode, HackerRank, Twitter/X, Portfolio) were not present in the source resume. Placeholders are included below — replace or remove them as applicable.*
-
+-->
 ---
 
 ## 🧰 Tech Stack
@@ -197,16 +197,8 @@
 
 ---
 
-## 📜 Certifications
 
-> *No certifications were listed in the source resume. Add your certifications here, for example:*
-
-| Certification | Issuing Organization | Year |
-|---|---|---|
-| _Add certification name_ | _Add issuer_ | _Add year_ |
-
----
-
+<!--
 ## 🏆 Achievements
 
 > *No explicit achievements section was present in the resume. Based on your academic record, consider highlighting:*
@@ -216,7 +208,7 @@
 - *(Add any hackathons, competitions, or recognitions here)*
 
 ---
-
+-->
 ## 📚 Currently Learning / Improving
 
 Based on your current trajectory in AI/ML and backend systems, areas you may be deepening include:
