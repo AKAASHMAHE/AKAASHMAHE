@@ -219,7 +219,7 @@ Based on your current trajectory in AI/ML and backend systems, areas you may be 
 - Applied **Generative AI** techniques
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -235,7 +235,8 @@ Based on your current trajectory in AI/ML and backend systems, areas you may be 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKAASHMAHE&theme=react-dark" alt="Contribution Graph" />
 </p>
 
----
+----
+-->
 
 ## 📫 Connect With Me
 
